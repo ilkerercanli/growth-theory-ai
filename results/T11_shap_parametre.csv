@@ -1,0 +1,19 @@
+parametre,grup,ort_mutlak_shap
+log_eta,konum,0.1524315476417541
+log_eta,iklim normali,0.201844111084938
+log_eta,toprak,0.150902658700943
+log_eta,topoğrafya,0.0881635174155235
+log_eta,ekolojik sınıf,0.2533360719680786
+log_eta,takson,0.4349226057529449
+log_Bmax,konum,0.123648501932621
+log_Bmax,iklim normali,0.5656942129135132
+log_Bmax,toprak,0.4304966628551483
+log_Bmax,topoğrafya,0.3310856819152832
+log_Bmax,ekolojik sınıf,0.8097675442695618
+log_Bmax,takson,1.0406529903411863
+m,konum,0.0159620884805917
+m,iklim normali,0.0419220440089702
+m,toprak,0.0285938866436481
+m,topoğrafya,0.0120872184634208
+m,ekolojik sınıf,0.0441975258290767
+m,takson,0.0654448494315147

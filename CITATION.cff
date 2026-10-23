@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Growth theory changes projected tree-growth responses to climate despite similar historical skill: code and results"
+authors:
+  - family-names: "Ercanlı"
+    given-names: "İlker"
+    affiliation: "Department of Forest Engineering, Faculty of Forestry, Çankırı Karatekin University, Türkiye"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: MIT
+repository-code: "https://github.com/ilkerercanli/growth-theory-ai"
+url: "https://ilkerercanli.github.io/growth-theory-ai/"
+keywords: [tree rings, ITRDB, deep learning, growth theory, climate change, CMIP6, hybrid modelling]

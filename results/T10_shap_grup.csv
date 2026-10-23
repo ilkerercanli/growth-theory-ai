@@ -1,0 +1,25 @@
+model,grup,ort_mutlak_shap
+serbest_ortam,büyüklük,0.0720633864402771
+serbest_ortam,iklim (aylık),0.4857953190803528
+serbest_ortam,konum,0.1024022549390792
+serbest_ortam,iklim normali,0.1638152599334716
+serbest_ortam,toprak,0.0963870957493782
+serbest_ortam,topoğrafya,0.0507829710841178
+serbest_ortam,ekolojik sınıf,0.128515362739563
+serbest_ortam,takson,0.3042546808719635
+teori_ortam,büyüklük,0.0842389613389968
+teori_ortam,iklim (aylık),0.4882828593254089
+teori_ortam,konum,0.0787126123905181
+teori_ortam,iklim normali,0.2095481753349304
+teori_ortam,toprak,0.1398734301328659
+teori_ortam,topoğrafya,0.0902710482478141
+teori_ortam,ekolojik sınıf,0.1866484880447387
+teori_ortam,takson,0.3055091202259063
+teori_vpd_ortam,büyüklük,0.0801175013184547
+teori_vpd_ortam,iklim (aylık),0.488185167312622
+teori_vpd_ortam,konum,0.0839492082595825
+teori_vpd_ortam,iklim normali,0.2206821292638778
+teori_vpd_ortam,toprak,0.1394697427749633
+teori_vpd_ortam,topoğrafya,0.0812358409166336
+teori_vpd_ortam,ekolojik sınıf,0.180940106511116
+teori_vpd_ortam,takson,0.3012185990810394

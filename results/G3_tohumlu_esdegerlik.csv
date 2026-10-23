@@ -1,0 +1,17 @@
+bolunme,teori,serbest,GA90_alt,GA90_ust,sinir_001,sinir_002,sinir_003
+zaman,teori,serbest,-0.004023296122817188,0.004670793241181829,eşdeğer,eşdeğer,eşdeğer
+zaman,teori_ortam,serbest_ortam,-0.005571248819690188,0.004656323836344534,eşdeğer,eşdeğer,eşdeğer
+takson,teori,serbest,-0.004901395435655814,0.019246364222221316,belirsiz,eşdeğer,eşdeğer
+takson,teori_ortam,serbest_ortam,-0.0011188552785104772,0.016800908555270732,belirsiz,eşdeğer,eşdeğer
+bolge-North America,teori,serbest,-0.02450133135382803,0.04173016183605164,belirsiz,belirsiz,belirsiz
+bolge-North America,teori_ortam,serbest_ortam,-0.029385343184940405,0.02353837861470282,belirsiz,belirsiz,eşdeğer
+bolge-Europe,teori,serbest,-0.028618957602567517,0.032239019515514965,belirsiz,belirsiz,belirsiz
+bolge-Europe,teori_ortam,serbest_ortam,0.005448346534121164,0.09614332771473526,teori daha kötü,teori daha kötü,teori daha kötü
+bolge-Asia,teori,serbest,0.016052892113100507,0.09533314652992639,teori daha kötü,teori daha kötü,teori daha kötü
+bolge-Asia,teori_ortam,serbest_ortam,0.0012537869677456766,0.06089674133335492,teori daha kötü,teori daha kötü,teori daha kötü
+bolge-Southern Hemisphere,teori,serbest,-0.095000290710044,0.11164455859551704,belirsiz,belirsiz,belirsiz
+bolge-Southern Hemisphere,teori_ortam,serbest_ortam,-0.1357845566405917,-0.02393256391863685,teori daha iyi,teori daha iyi,teori daha iyi
+iklim-sicak,teori,serbest,-0.009718183291783655,0.0459351907741827,belirsiz,belirsiz,belirsiz
+iklim-sicak,teori_ortam,serbest_ortam,-0.01696440721459397,0.029038426186142448,belirsiz,belirsiz,eşdeğer
+iklim-kurak,teori,serbest,0.1390125162098119,0.22574888037404386,teori daha kötü,teori daha kötü,teori daha kötü
+iklim-kurak,teori_ortam,serbest_ortam,0.1161292636078701,0.32090674623391546,teori daha kötü,teori daha kötü,teori daha kötü

@@ -1,0 +1,7 @@
+model,n_halka,nem_artinca_azalan_halka,nem_artinca_azalan_alan,yagis_artinca_azalan_halka,yagis_artinca_azalan_alan,vpd_artinca_artan_halka,vpd_artinca_artan_alan
+serbest,50000,0.32666,0.3162277740265586,0.35644,0.3634931352689624,0.22926,0.2018906144496961
+teori,50000,0.0,0.0,0.0,0.0,0.0,0.0
+teori_vpd,50000,0.0,0.0,0.0,0.0,0.0,0.0
+serbest_ortam,50000,0.08418,0.077717879604672,0.32022,0.3032345013477089,0.20302,0.2293351302785265
+teori_ortam,50000,0.0,0.0,0.0,0.0,0.0,0.0
+teori_vpd_ortam,50000,0.0,0.0,0.0,0.0,0.0,0.0
