@@ -1,8 +1,8 @@
-# Growth theory changes projected tree-growth responses to climate despite similar historical skill
+# Climate-sensitive tree radial growth models constrained by growth theory: historical accuracy and projected responses to climate change across the International Tree-Ring Data Bank
 
 Code, trained-model outputs and site-level results for:
 
-> Ercanlı, İ. *Growth theory changes projected tree-growth responses to climate despite similar historical skill.* Manuscript under review.
+> Ercanlı, İ. *Climate-sensitive tree radial growth models constrained by growth theory: historical accuracy and projected responses to climate change across the International Tree-Ring Data Bank.* Manuscript under review.
 
 **Interactive map of the projections:** https://ilkerercanli.github.io/growth-theory-ai/
 
