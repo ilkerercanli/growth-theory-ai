@@ -1,0 +1,14 @@
+{
+  "title": "Climate-sensitive tree radial growth models constrained by growth theory: code and results",
+  "upload_type": "software",
+  "description": "Code (R scripts and Colab notebooks), site tables, analysis outputs and dated analysis documents for a global comparison of growth-theory-constrained and unconstrained models of annual tree radial growth using the International Tree-Ring Data Bank, CRU TS 4.09 and CMIP6.",
+  "creators": [
+    {
+      "name": "Ercanlı, İlker",
+      "affiliation": "Çankırı Karatekin University"
+    }
+  ],
+  "license": "mit",
+  "keywords": ["tree rings", "ITRDB", "growth theory", "climate change", "CMIP6", "deep learning"],
+  "version": "1.0.1"
+}
